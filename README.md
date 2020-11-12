@@ -1,4 +1,4 @@
-# Dev-Resources
+# Dev-Resources 💡
 A collection of dev resources for reference!
 
 ### CSS
